@@ -8,3 +8,4 @@ AMD Ryzen 5
  
 Intel Cpu Core i5
 
+Elettronica Padovana
