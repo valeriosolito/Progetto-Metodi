@@ -12,4 +12,8 @@ Intel Cpu Core i5
 
 #Periferiche:
 
+Logitech G213 Prodigy
+
+Keychron K2
+
 Elettronica Padovana
