@@ -1,5 +1,7 @@
 2113178 2111022
 
+#Componenti:
+
 Asrock B850M
  
 Pro Gigabyte B650
