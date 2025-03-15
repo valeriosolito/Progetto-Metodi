@@ -16,4 +16,8 @@ Logitech G213 Prodigy
 
 Keychron K2
 
+Logitech G502
+
+HP Mouse 100
+
 Elettronica Padovana
